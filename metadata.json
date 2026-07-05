@@ -1,0 +1,6 @@
+{
+  "name": "Yosh Hisoblagich",
+  "description": "Tug'ilgan kuningiz orqali to'liq yoshingiz, jami yashagan kunlaringiz, haftalaringiz, soatlaringiz va keyingi tug'ilgan kuningizgacha qolgan vaqtni hisoblovchi qulay va zamonaviy veb-ilova.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
